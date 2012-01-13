@@ -1,0 +1,3 @@
+Language Learning tool to periodically present the user with a new foreign language word. It runs in the background, so while you're doing other tasks you can also learn vocabulary.
+
+Currently depends on MacRuby and only runs on Mac.
